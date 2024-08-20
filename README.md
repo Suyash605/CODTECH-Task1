@@ -26,3 +26,6 @@ Duration: August 1 to August 31
 *Contact Form: Functional contact form connected to an email service.
 
 *Technologies Used: HTML, CSS, JavaScript, React/Vue/Angular (specify your stack), and any additional libraries or frameworks.
+
+Output:
+![Screenshot (59)](https://github.com/user-attachments/assets/a3ea47fd-d303-4905-b26e-b8fb4e38635d)
